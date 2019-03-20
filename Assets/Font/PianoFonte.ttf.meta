@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c67149e1564e34372b048cd32a3d93df
+timeCreated: 1512148663
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PianoFonte
+  fontNames:
+  - PianoFonte
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

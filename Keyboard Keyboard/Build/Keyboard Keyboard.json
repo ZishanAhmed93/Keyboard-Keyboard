@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Keys",
+"dataUrl": "Keyboard Keyboard.data.unityweb",
+"asmCodeUrl": "Keyboard Keyboard.asm.code.unityweb",
+"asmMemoryUrl": "Keyboard Keyboard.asm.memory.unityweb",
+"asmFrameworkUrl": "Keyboard Keyboard.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
